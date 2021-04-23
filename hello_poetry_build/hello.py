@@ -1,2 +1,2 @@
-def hi(name):
-    return f"hi! {name}"
+def add(value: int):
+    return value + 10
